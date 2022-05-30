@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [iOS Club Website](iosclub.com)
 
-- 🔭 I’m currently working on [Save_food_Battle]([iosclub.com](https://github.com/FOR-Shu/Save_food_Battle))
+- 🔭 I’m currently working on [Save_food_Battle](https://github.com/FOR-Shu/Save_food_Battle)
 
 - 🌱 I’m currently learning **React:)**
 
