@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuyuan</h1>
 <h3 align="center">A frontend developer & UI/UX designer from Taiwan.</h3>
 
-- 🔭 I’m currently working on [iOS Club Website](iosclub.com) & [Portfolio](https://github.com/FOR-Shu/Shuyuan_Portfolio)- Website
-
-- 🔭 I’m currently working on [Save_food_Battle](https://github.com/FOR-Shu/Save_food_Battle) - App
+- 🔭 I’m currently working on [Portfolio](https://github.com/FOR-Shu/Shuyuan_Portfolio)- Website
 
 - 🌱 I’m currently learning **React:)**
 
