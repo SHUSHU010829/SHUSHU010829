@@ -3,9 +3,7 @@
 
 - 📄 Know about me [My Portfolio](https://shuyuanchuang.com/)
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/FOR-Shu/Shuyuan_Portfolio)- Website
-
-- 👨‍💻 All of my projects are available at [https://shuyuan.myportfolio.com/](https://shuyuan.myportfolio.com/)
+- 👨‍💻 All of my design projects are available at [Behance](https://www.behance.net/annie55063bf69)
 
 - 📝 I regularly write articles on [https://forshu.com/](https://forshu.com/)
 
