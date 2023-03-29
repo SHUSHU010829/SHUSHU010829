@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-<h3>🔧 Languages:</h3>
+<h3>🔧 S:</h3>
   <p> 
     <a href="https://reactjs.org/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>         </a> 
