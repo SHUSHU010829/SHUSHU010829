@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my design projects are available at [Behance](https://www.behance.net/annie55063bf69).
 
-- 📝 I regularly write articles on [https://forshu.com/](https://forshu.com/).(Will refactor it this year!!)
+- 📝 I regularly write articles on [https://forshu.com/](https://forshu.com/). (Will refactor it this year!!)
 
 - 💬 Ask me about **All you want :)**
 
