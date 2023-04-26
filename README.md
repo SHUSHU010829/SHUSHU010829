@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shuyuan</h1>
 <h3 align="center">A frontend developer & UI designer from Taiwan.</h3>
 
-- 📄 Know about me [My Portfolio](https://shuyuanchuang.com/)
+- 📄 Know more about me & contact me by [My Portfolio](https://shuyuanchuang.com/).
 
-- 👨‍💻 All of my design projects are available at [Behance](https://www.behance.net/annie55063bf69)
+- 👨‍💻 All of my design projects are available at [Behance](https://www.behance.net/annie55063bf69).
 
-- 📝 I regularly write articles on [https://forshu.com/](https://forshu.com/)
+- 📝 I regularly write articles on [https://forshu.com/](https://forshu.com/).(Will refactor it this year!!)
 
 - 💬 Ask me about **All you want :)**
 
