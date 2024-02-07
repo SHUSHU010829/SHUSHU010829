@@ -63,9 +63,9 @@
 </p>
 <br></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOR-Shu&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHUSHU010829&theme=light&layout=compact)
 
-![Shuyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FOR-Shu&count_private=true&show_icons=true&theme=dark)
+![Shuyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHUSHU010829&count_private=true&show_icons=true&theme=light)
 <br />
 
 <!-- <div > 
