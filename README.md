@@ -49,11 +49,11 @@
 
 <br></br>
 
-![Alt](https://repobeats.axiom.co/api/embed/07fb82330959889996315cafa478ae498f152b45.svg "Repobeats analytics image")
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHUSHU010829&theme=light&layout=compact)
 
-![Shuyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHUSHU010829&count_private=true&show_icons=true&theme=light)
+![Alt](https://repobeats.axiom.co/api/embed/07fb82330959889996315cafa478ae498f152b45.svg "Repobeats analytics image")
+
+<!-- ![Shuyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHUSHU010829&count_private=true&show_icons=true&theme=light) -->
 <br />
 
 <!-- <div > 
