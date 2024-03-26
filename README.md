@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm ShuShu.</h1>
 <h3 align="center">A frontend developer & UI designer from Taiwan.</h3>
 
-- 📄 Know more about me & contact me by [My Portfolio](https://shuyuanchuang.com/).
-
-- 👨‍💻 All of my design projects are available at [Behance](https://www.behance.net/annie55063bf69).
-
-- 📝 I regularly write articles on [https://forshu.com/](https://forshu.com/). (Will refactor it this year!!)
+- 📄 Know more about me & contact me [shushu.tw](https://shushu.tw).
 
 - 💬 Ask me about **All you want :)**
 
