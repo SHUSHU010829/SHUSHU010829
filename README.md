@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ShuShu.</h1>
+<h1 align="center">Hi 👋, I'm SHUSHU</h1>
 <h3 align="center">A frontend developer & UI designer from Taiwan.</h3>
 
 - 📄 Know more about me & contact me [shushu.tw](https://shushu.tw).
