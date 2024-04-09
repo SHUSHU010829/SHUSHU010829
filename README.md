@@ -1,3 +1,5 @@
+![pixel-profile](https://pixel-profile.vercel.app/api/github-stats?username=SHUSHU010829&theme=fuji&pixelate_avatar=false)
+<br></br>
 <h1 align="center">Hi 👋, I'm SHUSHU</h1>
 <h3 align="center">A front-end developer & UI designer from Taiwan.</h3>
 
@@ -50,8 +52,8 @@
 <!-- ![Shuyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHUSHU010829&count_private=true&show_icons=true&theme=light) -->
 <br />
 
-<!-- <div > 
+<div > 
   <h4>Visitor count</h4>
   <img src="https://profile-counter.glitch.me/FOR-Shu/count.svg" />
-</div> -->
+</div>
   
