@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHUSHU</h1>
-<h3 align="center">A frontend developer & UI designer from Taiwan.</h3>
+<h3 align="center">A front-end developer & UI designer from Taiwan.</h3>
 
 - 📄 About me & Develop note [shuyuan.dev](https://www.shuyuan.dev/)
 
