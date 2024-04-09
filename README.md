@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHUSHU</h1>
 <h3 align="center">A frontend developer & UI designer from Taiwan.</h3>
 
-- 📄 Know more about me & contact me [shushu.tw](https://shushu.tw).
+- 📄 About me & Develop note [shuyuan.dev](https://www.shuyuan.dev/)
 
 - 💬 Ask me about **All you want :)**
 
